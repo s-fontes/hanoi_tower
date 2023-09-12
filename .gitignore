@@ -1,0 +1,6 @@
+#Files and foolders to ignore
+*.txt
+output
+.idea
+*.pyc
+__pycache__
